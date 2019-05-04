@@ -28,5 +28,3 @@ class Triangle
   end
 end
 
-# jojo = Triangle.new(1, 1 , 3)
-# puts "#{jojo}"
